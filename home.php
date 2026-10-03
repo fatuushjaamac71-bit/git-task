@@ -6,4 +6,7 @@
 </body>
 <h1>welcome to fardowsa jama </h1>
 </body
-</html>
+</html>             
+  <?php
+echo date("Y-m-d");
+?>
